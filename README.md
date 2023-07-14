@@ -23,4 +23,5 @@ Do note that for this to work entirely, your bot needs the following permissions
 3. Delete channels
 4. Send messages (optional)
 5. @everyone mention (optional)
+
 Every permissions without a `(optional)` next to it is <b>required</b> for the bot to work entirely as intended.
